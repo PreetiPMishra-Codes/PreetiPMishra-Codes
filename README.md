@@ -27,12 +27,12 @@ I like understanding things from scratch — currently deep in Linked Lists for 
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreetiPMishra-Codes&show_icons=true&theme=tokyonight&count_private=true" alt="Preeti's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=PreetiPMishra-Codes&show_icons=true&theme=tokyonight&count_private=true" alt="Preeti's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreetiPMishra-Codes&theme=tokyonight" alt="Preeti's Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreetiPMishra-Codes&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=PreetiPMishra-Codes&theme=tokyonight&layout=compact" alt="Top Languages" width="60%" />
 </p>
 
 
