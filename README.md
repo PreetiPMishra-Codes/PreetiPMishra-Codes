@@ -10,12 +10,16 @@ CSE sophomore at **IIIT Bhubaneswar** (Class of 2029). I’m passionate about bu
 * **Ask me about:** Statistics, Probability, ML workflows, or the late-night joys of debugging.
 
 ---
-
 ### 📊 My GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreetiPMishra-Codes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=PreetiPMishra-Codes&show_icons=true&theme=radical" alt="Preeti's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=PreetiPMishra-Codes&theme=radical" alt="GitHub Streak" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PreetiPMishra-Codes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PreetiPMishra-Codes&layout=compact&theme=radical" alt="Top Languages" />
+</p>Codes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
