@@ -19,7 +19,7 @@ CSE sophomore at **IIIT Bhubaneswar** (Class of 2029). I’m passionate about bu
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PreetiPMishra-Codes&layout=compact&theme=radical" alt="Top Languages" />
-</p>Codes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ---
 
