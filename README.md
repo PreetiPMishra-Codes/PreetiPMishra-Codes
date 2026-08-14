@@ -11,14 +11,15 @@ CSE sophomore at **IIIT Bhubaneswar** (Class of 2029). I’m passionate about bu
 
 ---
 
-### 📈 My GitHub Stats
+### 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreetiPMishra-Codes&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreetiPMishra-Codes&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PreetiPMishra-Codes&show_icons=true&theme=radical" alt="Preeti's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreetiPMishra-Codes&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreetiPMishra-Codes&theme=tokyonight&layout=compact&cache_seconds=86400" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreetiPMishra-Codes&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
