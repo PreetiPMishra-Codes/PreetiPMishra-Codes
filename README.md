@@ -1,13 +1,12 @@
 # Hi, I'm PREETI PRAGYAN MISHRA 👋
 
-CSE sophomore at **IIIT Bhubaneswar** (Class of 2029). I’m passionate about building things from scratch and exploring the intersections of **Machine Learning**, **Deep Learning**, and **Competitive Programming**.
+CSE sophomore at **IIIT Bhubaneswar** (Class of 2029). I’m passionate about building things from scratch and exploring the intersections of **Machine Learning**, **Deep Learning**, **Competitive Programming**, and **Backend**.
 
 ---
 
 ### 🔭 What I'm Focused On
-* **Current Exploration:** Deepening my knowledge in **Linked Lists** for CP and **Linear Regression** for Machine Learning.
+* **Current Exploration:** Deepening my knowledge in **Heap (Priority Queues)** for CP and **Regression** for Machine Learning.
 * **Current Project:** [Hedge Fund Portfolio Risk & Returns Simulator](https://github.com/PreetiPMishra-Codes/Hedge-Fund-Portfolio-Risk-Returns-Simulator) — A custom tool built with Python and vectorized linear algebra to model market dynamics and calculate VaR.
-* **Ask me about:** Statistics, Probability, ML workflows, or the late-night joys of debugging.
 
 ---
 ### 📊 My GitHub Stats
